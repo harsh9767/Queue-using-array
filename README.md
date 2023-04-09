@@ -23,5 +23,7 @@ Check if (front==-1) or (front> rear ), if true print underflow Else if ( front=
 
 Display:
 
-If front==-1 , print queue is empty Else print the array queue using a for loop with counter variable initially set to front incrementing value upto rear . Applications of Queue Data Structure • CPU Scheduling • Disk Scheduling • Asynchronous data transfer between processors such as File IO, etc. • Breadth-First Search Algorithm (BFS)
+If front==-1 , print queue is empty Else print the array queue using a for loop with counter variable initially set to front incrementing value upto rear . Applications of Queue Data Structure • CPU Scheduling • Disk Scheduling • Asynchronous data transfer between processors such as File IO, et![229417449-ae6439c9-f3a4-4e26-8781-9f8b2164946f]. • Breadth-First Search Algorithm (BFS)
+otuput-
 
+![229417449-ae6439c9-f3a4-4e26-8781-9f8b2164946f](https://user-images.githubusercontent.com/126061096/230759157-d2839f3f-5dba-40ce-a987-7350a4fb03fa.png)
